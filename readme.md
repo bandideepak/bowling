@@ -13,12 +13,12 @@ The app will be a simple way for a bowling league to track a progressive jackpot
 ## Solution Requirements
 <ul>
 <li>Sign up</li>
-<li>Log in</li
-<li>View a league's current jackpot</li
-<li>Let a league's bowlers buy tickets for the current jackpot</li
-<li>Draw a winning ticket for a jackpot</li
-<li>Record the result of the jackpot roll and then see the next jackpot</li
-<li>View the history of a league's jackpots</li
+<li>Log in</li>
+<li>View a league's current jackpot</li>
+<li>Let a league's bowlers buy tickets for the current jackpot</li>
+<li>Draw a winning ticket for a jackpot</li>
+<li>Record the result of the jackpot roll and then see the next jackpot</li>
+<li>View the history of a league's jackpots</li>
 </ul>
 ## Contributing
 
