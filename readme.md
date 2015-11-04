@@ -20,9 +20,10 @@ The app will be a simple way for a bowling league to track a progressive jackpot
 <li>Record the result of the jackpot roll and then see the next jackpot</li>
 <li>View the history of a league's jackpots</li>
 </ul>
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Technology and Tools
+
+For this application, a PHP framework : Laravel is used.
 
 ### License
 
