@@ -28,3 +28,5 @@ For this application, a PHP framework : Laravel is used.
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+#Testing Git
